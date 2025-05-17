@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Hi, I'm **Nikitha** – a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**. I'm passionate about building smart solutions using ML, and I love exploring the intersection of **space and technology**.  
+Hi, I'm **Nikitha Matta** – a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building smart solutions using ML, and I love exploring the intersection of **space and technology**.  
 
 When I'm not coding, you'll find me reading fiction, talking about space, or working on side projects that blend AI with creativity. My dream is to contribute as a space scientist at **ISRO** someday.  
 
