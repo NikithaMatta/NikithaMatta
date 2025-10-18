@@ -1,10 +1,12 @@
 ## 👩‍💻 About Me
 
-Hi, I'm **Nikitha Matta** – a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building smart solutions using ML, and I love exploring the intersection of **space and technology**.  
+Hi, I'm **Nikitha Matta** – a Computer Science Engineering graduate with a specialization in **Artificial Intelligence & Machine Learning**. I'm passionate about building intelligent solutions using ML and love exploring the intersection of **space and technology**.
 
-When I'm not coding, you'll find me reading fiction, talking about space, or working on side projects that blend AI with creativity. My dream is to contribute as a space scientist at **ISRO** someday.  
+Outside of code, you'll find me reading fiction, discussing cosmic mysteries, or working on side projects that blend AI with creativity. My long-term dream is to contribute as a space scientist at ISRO.
 
-Currently leveling up my skills in **Python, Java, SQL, Django, MongoDB, and AWS** while building personal projects that showcase my learning.
+I'm currently working in the QEA CMT department at Cognizant, where I apply my skills in Agile methodologies, Playwright, Postman, and both functional and API testing.
+
+Meanwhile, I'm leveling up in Competitive Programming, Django and AWS, building personal projects that showcase my learning journey and curiosity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikithamatta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matta17nikitha@gmail.com) 
