@@ -2,7 +2,7 @@
 
 Hi, I'm **Nikitha Matta** – a Computer Science Engineering graduate with a specialization in **Artificial Intelligence & Machine Learning**. I'm passionate about building intelligent solutions using ML and love exploring the intersection of **space and technology**.
 
-Outside of code, you'll find me reading fiction, discussing cosmic mysteries, or working on side projects that blend AI with creativity. My long-term dream is to contribute as a space scientist at ISRO.
+Outside of code, you'll find me reading fiction, discussing cosmic mysteries, or working on side projects that blend AI with creativity.
 
 I'm currently working in the QEA CMT department at Cognizant, where I apply my skills in Agile methodologies, Playwright, Postman, and both functional and API testing.
 
